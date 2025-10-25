@@ -1,5 +1,4 @@
 # Nifty-50-stock-list
-# NIFTY50 Intraday Analysis and Sector Momentum
 
 This project analyzes intraday stock data for NIFTY50 companies to calculate **sector momentum** and **stock volatility**. The analysis is implemented in Python using `yfinance`, `pandas`, `matplotlib`, and `seaborn`.
 
@@ -33,6 +32,6 @@ This project analyzes intraday stock data for NIFTY50 companies to calculate **s
  
 ```bash
 git clone https://github.com/Prachikhambayat/Nifty-50-stock-list.git
-cd nifty50-intraday-analysis
+cd  Nifty-50-stock-list     (Folder_Name)
 
 
