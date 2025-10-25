@@ -32,7 +32,7 @@ This project analyzes intraday stock data for NIFTY50 companies to calculate **s
 1. Clone the repository:
  
 ```bash
-git clone
+git clone https://github.com/Prachikhambayat/Nifty-50-stock-list.git
 cd nifty50-intraday-analysis
 
 
